@@ -1,0 +1,88 @@
+body {
+}
+
+#start {
+  background-image: url('https://cdn0.iconfinder.com/data/icons/super-8x8-transparent-background-edition/512/1.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+
+.splashLogo {
+    background-image: url('http://ecx.images-amazon.com/images/I/71ShsPBGpCL._SL500_AA300_.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 300px;
+    height: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#start {
+    margin: 20px auto;
+}
+
+h1 {
+  font-family: Impact, sans-serif;
+  color: rgba(0,0,0,0.05);
+  font-size: 10em;
+  text-align: center;
+  margin: 15% auto;
+  text-shadow: 1px 1px 10px rgba(100,100,100,0.8);
+  text-transform: uppercase;
+}
+
+p {
+  color: #fff;
+  font-family: sans-serif;
+  background-color: rgba(0,0,0,0.8);
+  padding: 20px 20px 120px 20px;
+  position: absolute;
+  bottom: 0;
+}
+
+.environment {
+  
+}
+
+.character {@-webkit-keyframes example {
+    0% {background-color: red; left:0px;}
+    50% {background-color: yellow; left:200px;-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Safari */
+    transform: rotate(180deg);}
+    100% {background-color: green; left:0px;-ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Safari */
+    transform: rotate(180deg);}
+}
+
+
+@keyframes example {
+    0% {
+background-color: red; left:0px;
+}
+    50% {
+background-color: yellow;
+left:200px;
+-ms-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+    100% {
+background-color: green;
+left:0px;
+-ms-transform: rotate(0deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+}
+
+   background-image: url('https://s-media-cache-ak0.pinimg.com/236x/f7/67/f6/f767f6ead7221d9260f94cfc511c3291.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 300px;
+    height: 300px;
+  margin: 0 auto; 
+}
